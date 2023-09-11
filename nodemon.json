@@ -1,10 +1,6 @@
 {
   "env": {
     "MONGO_ATLAS_PASS": "QERzYDgM85byxjX8",
-    "CYCLIC_URL": "https://adminapi.cyclic.app/",
-    "CYCLIC_DB": "long-neckerchief-dogCyclicDB",
-    "CYCLIC_BUCKET_NAME": "cyclic-long-neckerchief-dog-ap-southeast-2",
-    "JWT_AUTH_KEY": "j#K9$wPq2@vX5rL",
-    "CYCLIC_APP_ID": "long-neckerchief-dog"
+    "JWT_AUTH_KEY": "j#K9$wPq2@vX5rL"
   }
 }
